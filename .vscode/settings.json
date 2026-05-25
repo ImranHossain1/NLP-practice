@@ -1,0 +1,8 @@
+{
+    "github.copilot.enable": {
+        "*": true,
+        "jupyter": false,
+        "ipynb": false
+    },
+    "python.analysis.autoImportCompletions": false
+}
